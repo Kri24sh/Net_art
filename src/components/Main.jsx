@@ -6,7 +6,7 @@ const body = () => {
 
             <div className='flex '>
 
-            <div className='flex justify-center'><img src="src/assets/1.png" alt="award" className='md:block hidden object-contain aspect-[4/5]  lg:aspect-4/3'/></div>
+            <div className='flex justify-center'><img src="https://i.ibb.co/k2kkpKH/1.png" alt="award" className='md:block hidden object-contain aspect-[4/5]  lg:aspect-4/3'/></div>
             
             <div className='flex flex-col p-7 justify-start'>
 
@@ -23,7 +23,7 @@ const body = () => {
 
 
                 <div className='  justify-center items-center my-4  '>
-                <img src="src/assets/2.png" alt="pic" className=' object-contain  md:aspect-[3/1]  ' />
+                <img src="https://i.ibb.co/QrH1TGh/2.png" alt="pic" className=' object-contain  md:aspect-[3/1]  ' />
                 </div>
 
 
@@ -45,7 +45,7 @@ const body = () => {
 
 
                 <div>
-                    <img src="src/assets/3.png" alt="product" className=' object-contain aspect-[3/1] w-[90vw] z-10' /> 
+                    <img src="https://i.ibb.co/gDbNJTh/3.png" alt="product" className=' object-contain aspect-[3/1] w-[90vw] z-10' /> 
                 </div>
 
                 <p className=' text-[9px]  sm:text-xs md:text-lg font-semibold tracking-tighter md:tracking-normal py-2'>Valves - Pumps - Pipes - IoT Drives & Controllers - Wires & Cables - Solar Systems - Motors</p>
