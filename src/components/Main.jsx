@@ -23,7 +23,7 @@ const body = () => {
 
 
                 <div className='  flex justify-center items-center my-4  '>
-                <img src="https://i.ibb.co/QrH1TGh/2.png" alt="pic" className=' object-contain  md:aspect-[3/1]  ' />
+                <img src="https://i.ibb.co/QrH1TGh/2.png" alt="pic" className=' object-contain  md:aspect-[2/1]  ' />
                 </div>
 
 
